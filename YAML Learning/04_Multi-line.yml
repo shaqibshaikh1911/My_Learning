@@ -1,0 +1,11 @@
+# this Literal Block using ( | ) pipe
+
+bio: |
+  this text stay
+  exactly the same.
+
+# this is folded block
+
+note: >
+  this text becomes
+  a single line.

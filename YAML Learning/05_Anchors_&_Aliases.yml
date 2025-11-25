@@ -1,0 +1,9 @@
+# To avoid repeating Yourself
+
+defaults: &base
+  retries: 23
+  timeout: 10
+
+service01:
+  <<: *base
+  port: 8080

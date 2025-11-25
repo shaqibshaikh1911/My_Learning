@@ -1,0 +1,15 @@
+# String
+name: "Shaqib Shaikh"
+
+# Number
+count: 40
+
+# Boolean
+active: true
+
+# Null
+value: null
+
+# dates
+dates: 2045-11-26
+
