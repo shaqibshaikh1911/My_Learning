@@ -1,0 +1,6 @@
+student:
+  name: Shaqib
+  course:
+    title: YAML Basics
+    level: beginner
+  
