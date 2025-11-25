@@ -1,0 +1,38 @@
+# This is basic List
+fruits:
+  - apple
+  - banana
+  - orange
+
+# This is Number list
+
+scores:
+  - 10
+  - 30
+  - 50
+
+# This List of Object
+student:
+  - name: Ali
+    age: 25
+  - name: sara
+    age: 22
+
+# This is List Inside Objects
+employee:
+  name: John
+  skill:
+    - Python
+    - Linux
+    - Docker
+
+# Excercise
+
+courses:
+  - title: Python
+    duration: 3
+  - title: Linux
+    duration: 4
+  - title: Docker
+    duration: 2
+        
