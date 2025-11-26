@@ -1,0 +1,2 @@
+Number: !!str 25
+count: !!int "10"
