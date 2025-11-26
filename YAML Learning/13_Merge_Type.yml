@@ -1,0 +1,7 @@
+defaults: &base
+  role: DevOps
+  location: India
+
+User:
+  <<: *base
+  name: shaqib
