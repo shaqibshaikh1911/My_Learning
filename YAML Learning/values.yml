@@ -1,0 +1,2 @@
+serviceName: my-app
+type: ClusterIP
