@@ -1,0 +1,94 @@
+####################################################################################
+
+$ pwd
+/home/shaquib/projects
+
+####################################################################################
+
+# simple
+ls
+# detailed
+ls -la
+# show directories only (pipe)
+ls -l | grep '^d'
+
+####################################################################################
+
+cd /var/www/myapp
+cd ..         # go one level up
+cd ~          # go to your home directory
+cd -          # go to previous directory
+
+####################################################################################
+
+touch notes.txt
+
+####################################################################################
+
+mkdir -p /opt/myapp/logs/archive
+-p #makes parent directories as needed.
+
+####################################################################################
+
+rm old-file.txt
+rm -r old-folder          # remove folder recursively
+rm -rf folder-to-force    # FORCE remove (use carefully)
+
+####################################################################################
+
+rmdir temp-empty-dir
+
+####################################################################################
+
+cp config.prod.yml config.yml
+cp -r /src/myapp /backup/myapp
+
+####################################################################################
+
+mv oldname.txt newname.txt
+mv build-v1.0 /var/www/myapp
+
+####################################################################################
+
+cat /etc/hosts
+# for long files, combine with less
+cat largefile.log | less
+
+####################################################################################
+
+echo "APP_ENV=production" > .env
+echo "deploy completed at $(date)" >> deploy.log
+
+####################################################################################
+
+3) Short practice session (do this on your machine)
+
+Create a practice folder:
+
+mkdir -p ~/linux-practice && cd ~/linux-practice
+pwd
+
+
+Create files and folders:
+
+touch notes.md
+mkdir logs backups
+echo "first note" > notes.md
+ls -la
+cat notes.md
+
+
+Copy and move:
+
+cp notes.md backups/notes-backup.md
+mv notes.md logs/notes-to-review.md
+ls -R
+
+
+Clean up:
+
+rm -r backups logs
+rmdir some-empty-dir   # try after creating one
+
+
+Do these steps and watch outputs — that builds muscle memory.
