@@ -1,0 +1,23 @@
+Advanced Linux Commands 
+35. awk - Text processing and pattern scanning. 
+36. sed - Stream editor for filtering and transforming text. 
+37. cut - Remove sections from each line of a file. 
+38. tr - Translate or delete characters. 
+39. xargs - Build and execute command lines from standard input. 
+40. ln - Create symbolic or hard links. 
+41. df -h - Display disk usage in human-readable format. 
+42. free - Display memory usage. 
+43. iostat - Display CPU and I/O statistics. 
+44. netstat - Network statistics (use ss as modern alternative). 
+45. ifconfig/ip - Configure network interfaces (use ip as modern alternative). 
+46. iptables - Configure firewall rules. 
+47. systemctl - Control the systemd system and service manager. 
+48. journalctl - View system logs. 
+49. crontab - Schedule recurring tasks. 
+50. at - Schedule tasks for a specific time. 
+51. uptime - Display system uptime. 
+52. whoami - Display the current user. 
+53. users - List all users currently logged in. 
+54. hostname - Display or set the system hostname. 
+55. env - Display environment variables. 
+56. export - Set environment variables.
