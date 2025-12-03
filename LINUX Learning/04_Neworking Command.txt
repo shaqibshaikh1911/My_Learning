@@ -1,0 +1,11 @@
+Networking Commands 
+57. ip addr - Display or configure IP addresses. 
+58. ip route - Show or manipulate routing tables. 
+59. traceroute - Trace the route packets take to a host. 
+60. nslookup - Query DNS records. 
+61. dig - Query DNS servers. 
+62. ssh - Connect to a remote server via SSH. 
+63. ftp - Transfer files using the FTP protocol. 
+64. nmap - Network scanning and discovery. 
+65. telnet - Communicate with remote hosts. 
+66. netcat (nc) - Read/write data over networks.

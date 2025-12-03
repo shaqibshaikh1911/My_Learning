@@ -1,3 +1,21 @@
+Basic Linux Commands - 
+Linux is the foundation of DevOps operations - it's like a Swiss Army knife for servers. These 
+commands help you navigate systems, manage files, configure permissions, and automate 
+tasks in terminal environments. 
+1. pwd - Print the current working directory. 
+2. ls - List files and directories. 
+3. cd - Change directory. 
+4. touch - Create an empty file. 
+5. mkdir - Create a new directory. 
+6. rm - Remove files or directories. 
+7. rmdir - Remove empty directories. 
+8. cp - Copy files or directories. 
+9. mv - Move or rename files and directories. 
+10. cat - Display the content of a file. 
+11. echo - Display a line of text. 
+12. clear - Clear the terminal screen.
+
+
 ####################################################################################
 
 $ pwd
